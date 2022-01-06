@@ -10,6 +10,6 @@ Simply add the following elements to your HTML DOM. Then add a class _**skbinput
 <!-- softkeyboard -->
 <link rel="stylesheet" href="softkeyboard.min.css">
 <input type="text" class="skbinput">
-<div id="skb" style="max-width: 1000px; width: 100%;"></div>
+<div id="skb" style="max-width: 1000px; width: 100%; bottom: 80px;"></div>
 <script src="softkeyboard.min.js"></script>
 ```
